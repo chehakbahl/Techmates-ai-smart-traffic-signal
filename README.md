@@ -77,6 +77,3 @@ TECHMATES
 - Chehak Bahl
 - Anaya Aggarwal
 - Kasak Khandelwal
-- Chehak Bahl
-- Anaya Aggarwal
-- Kasak Khandelwal
