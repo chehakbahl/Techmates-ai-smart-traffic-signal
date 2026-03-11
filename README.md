@@ -1,6 +1,5 @@
-# Techmates-ai-smart-traffic-signal
-AI-Driven Smart Traffic Signal System that dynamically adjusts traffic light timing based on real-time vehicle density using machine learning and optimization algorithms to reduce congestion and prioritize emergency vehicles.
 # AI-Driven Smart Traffic Signal System 🚦
+AI-Driven Smart Traffic Signal System that dynamically adjusts traffic light timing based on real-time vehicle density using machine learning and optimization algorithms to reduce congestion and prioritize emergency vehicles.
 
 ## Overview
 Urban traffic signals typically operate on fixed timing systems that do not consider real-time traffic density. This often results in traffic congestion, longer waiting times, increased fuel consumption, and delays for emergency vehicles.
