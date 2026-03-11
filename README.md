@@ -43,6 +43,16 @@ Smart Traffic Control
 Result  
 → Reduced congestion and improved traffic flow.
 
+Camera/Sensors
+      ↓
+Vehicle Detection (AI/ML)
+      ↓
+Traffic Density Analysis
+      ↓
+Signal Optimization Algorithm
+      ↓
+Dynamic Traffic Signal Control
+
 ## Key Features
 - Dynamic traffic signal timing
 - AI-based traffic optimization
