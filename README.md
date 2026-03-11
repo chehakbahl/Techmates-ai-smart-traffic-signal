@@ -27,22 +27,6 @@ The system uses **AI-based analysis and optimization algorithms** to determine t
 5. Emergency vehicles are given priority with instant green signals.
 
 ## System Architecture
-
-Traffic Data Collection  
-→ Cameras or sensors capture vehicle density.
-
-AI Processing Module  
-→ Machine learning model analyzes traffic conditions.
-
-Signal Optimization Engine  
-→ Algorithm calculates optimal green signal duration.
-
-Smart Traffic Control  
-→ Traffic lights adjust dynamically at intersections.
-
-Result  
-→ Reduced congestion and improved traffic flow.
-
 Camera/Sensors
       ↓
 Vehicle Detection (AI/ML)
@@ -82,10 +66,14 @@ Dynamic Traffic Signal Control
 - Smart city traffic network integration
 
 ## Prototype
-
 The prototype demonstrates how the traffic signal timing can dynamically change based on vehicle density at an intersection.
-The prototype files and demonstration materials are available at https://www.figma.com/make/avtFDEwOmvsLbsGY7AEq1E/Landing
-Overview-Screen?t=5kwIzaNspzVA7xb4-20&fullscreen=1&preview-route=%2Fadmin
+The prototype UI demonstration can be viewed here: (https://www.figma.com/make/avtFDEwOmvsLbsGY7AEq1E/Landing
+Overview-Screen?t=5kwIzaNspzVA7xb4-20&fullscreen=1&preview-route=%2Fadmin)
+
+## Repository Structure
+src/ → source code  
+prototype/ → prototype assets  
+presentation/ → project presentation slides
 
 ## Team
 TECHMATES
