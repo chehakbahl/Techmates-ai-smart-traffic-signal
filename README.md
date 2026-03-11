@@ -72,6 +72,12 @@ Result
 - IoT sensor integration
 - Smart city traffic network integration
 
+## Prototype
+
+The prototype demonstrates how the traffic signal timing can dynamically change based on vehicle density at an intersection.
+The prototype files and demonstration materials are available at https://www.figma.com/make/avtFDEwOmvsLbsGY7AEq1E/Landing
+Overview-Screen?t=5kwIzaNspzVA7xb4-20&fullscreen=1&preview-route=%2Fadmin
+
 ## Team
 TECHMATES
 - Chehak Bahl
